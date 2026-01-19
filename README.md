@@ -6,7 +6,8 @@ There are many benefits of AI image generation, but there are also several drawb
 
 After Hurricane Helene in September of 2024, an image of a young girl crying while holding a puppy in a boat was spread around social media sites like X. The photo was shared by senators and national committee members, and the photo wasn’t flagged as being AI-generated until after it had already gone viral. This photo is a less drastic example of misinformation; however, AI generated images have become a large portion of “misinformation-associated images” (NBCUniversal News Group, 2024).
 
-What?
+## What?
+
 Our aim in this project is to train and develop a convolutional neural network (CNN) model that is trained on a dataset of real versus AI-generated images that can instantly detect if images are AI-generated. We also wanted to compare our built-from-scratch CNN model with other pre-existing CNN models to compare the detection accuracy of each. 
 
 Our comparative analysis of multiple CNN models for classifying AI-generated versus real images yielded several key insights relevant to both model development and practical deployment.
